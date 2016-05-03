@@ -1,3 +1,5 @@
+Folk tests
+
 This article describes git utilities to use the git source code version control systems that store and delivery primarily text-based files.
 
 I don't think I really understood the internals of git until I had to move folders from one project to another (and keep history).
@@ -227,4 +229,3 @@ git filter-branch
 doesn't really work because it lacks the --prune-empty option.
 
 
-wilsonmar - 
